@@ -1,0 +1,2 @@
+Thingworx Java SDK version 6.1.0
+Based on ThingWorx Platform version development.server.build-b679
